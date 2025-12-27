@@ -1,5 +1,5 @@
 {
-    "name": "package/n1",
+    "name": "pri_dbclass/n1",
     "description": "db class",
     "type": "library",
     "autoload": {
