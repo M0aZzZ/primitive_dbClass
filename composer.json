@@ -1,0 +1,16 @@
+{
+    "name": "package/n1",
+    "description": "db class",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Package\\N1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "m0az"
+        }
+    ],
+    "require": {}
+}
